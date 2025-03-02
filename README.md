@@ -20,8 +20,5 @@ Eğer bu repoya katkıda bulunmak, başka makalelerin özetlerini eklemek veya m
 
 ## İletişim
 
-[İletişim bilgilerinizi buraya ekleyebilirsiniz]
+aykutyusuf88@gmail.com
 
-## Lisans
-
-[Uygun bir lisans belirtebilirsiniz, örneğin MIT Lisansı]
